@@ -1,0 +1,11 @@
+/* 
+  localizable.strings
+  DiscoveryApp
+
+  Created by Lauv Edward on 04/07/2021.
+  
+*/
+"home" = "Home";
+"search" = "Search";
+"library" = "Library";
+"setting" = "Setting";
